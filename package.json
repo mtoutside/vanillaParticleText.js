@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "rome": "^10.0.4-beta"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "name": "particletext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
